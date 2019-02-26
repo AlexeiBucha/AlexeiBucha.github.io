@@ -25,3 +25,4 @@ As I like to learn new, I completed a lot of professional trainings and have big
 [PadawansTask13](https://github.com/AlexeiBucha/PadawansTask13) <br>
 [PadawansTask15](https://github.com/AlexeiBucha/PadawansTask15) <br>
 [Fibonacci-sequence](https://github.com/AlexeiBucha/Fibonacci-sequence) <br>
+[Kata #13 Basic](https://github.com/AlexeiBucha/Kata13_Basic)<br>
