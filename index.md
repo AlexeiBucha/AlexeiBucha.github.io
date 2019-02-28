@@ -27,3 +27,4 @@ As I like to learn new, I completed a lot of professional trainings and have big
 [Fibonacci-sequence](https://github.com/AlexeiBucha/Fibonacci-sequence) <br>
 [Kata #8 Basic](https://github.com/AlexeiBucha/Kata-8_Basic) <br>
 [Kata #13 Basic](https://github.com/AlexeiBucha/Kata13_Basic)<br>
+[Tic-Tac-Toe game](https://github.com/AlexeiBucha/Tic-Tac-Toe)<br>
